@@ -1,5 +1,5 @@
 {
-  "name": "ttest",
+  "name": "@targos/ttest",
   "description": "Perform the Student's t hypothesis test",
   "version": "2.0.0",
   "author": "Andreas Madsen <amwebdk@gmail.com>",
